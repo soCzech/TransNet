@@ -1,5 +1,6 @@
 # TransNet: A deep network for fast detection of common shot transitions
-This repository contains code for paper TransNet: A deep network for fast detection of common shot transitions.
+This repository contains code for paper
+[TransNet: A deep network for fast detection of common shot transitions.](https://arxiv.org/abs/1906.03363)
 
 If you use it in your work, please cite:
 
