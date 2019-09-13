@@ -4,6 +4,23 @@ This repository contains code for paper
 
 If you use it in your work, please cite:
 
+    @inproceedings{LokocKSMC19Viret,
+        author    = {Jakub Loko\v{c} and
+                    Gregor Koval\v{c}{\'{\i}}k and
+                    Tom{\'{a}}s Sou\v{c}ek and
+                    Jaroslav Moravec and
+                    Premysl \v{C}ech},
+        title     = {A framework for effective known-item search in video},
+        booktitle = {In Proceedings of the 27th ACM International Conference on Multimedia (MM’19),
+                     October 21-25, 2019, Nice, France},
+        pages     = {1--9},
+        year      = {2019},
+        url       = {https://doi.org/10.1145/3343031.3351046},
+        doi       = {10.1145/3343031.3351046}
+    }
+
+or
+
     @article{soucek2019transnet,
         title={TransNet: A deep network for fast detection of common shot transitions},
         author={Sou{\v{c}}ek, Tom{\'a}{\v{s}} and Moravec, Jaroslav and Loko{\v{c}}, Jakub},
