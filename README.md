@@ -1,4 +1,9 @@
 # TransNet: A deep network for fast detection of common shot transitions
+
+**:tada::tada::tada: A new version with better performance and training code has been released! See [github.com/soCzech/TransNetV2](https://github.com/soCzech/TransNetV2). :tada::tada::tada:**
+
+---
+
 This repository contains code for paper
 [TransNet: A deep network for fast detection of common shot transitions.](https://arxiv.org/abs/1906.03363)
 
